@@ -1,6 +1,6 @@
 # お問い合わせフォーム
 ## 環境構築
-Dockerビルド
+Dockerビルド docker-compose up -d --build
 
 　1. マイグレーション
  
