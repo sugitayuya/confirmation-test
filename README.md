@@ -24,7 +24,7 @@ Laravel環境構築
 
 ・PHP
 
-・Laravel
+・Laravel 8.6.12
 
 ・MySQL
 
